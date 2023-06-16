@@ -10,28 +10,19 @@ I love to learn and discuss about new technologies
 - 📖 Allways improving soft and hard skills, foreign languages and cook.
 - 🚀 <a href="https://www.dscamargo.com.br" >More info about me</a>
 
-###  🤝🏻 Connect with Me
+| <a href="https://www.linkedin.com/in/daniel13"/><img align="left" alt="Linkedin" width="32px" src="https://www.svgrepo.com/show/922/linkedin.svg" /></a> | <a href="mailto:daniel.camargo@hotmail.com"><img align="left" alt="E-mail" width="32px" src="https://www.svgrepo.com/show/511917/email-1572.svg"/></a> | <a href="https://www.instagram.com/danielcamargo13"><img align="left" alt="Instagram" width="32px" src="https://www.svgrepo.com/show/508844/instagram.svg"/></a> |
+|---|---|---|
 
-<a href="https://www.linkedin.com/in/daniel13"/>
-  <img align="left" alt="LinkedIn" width="32px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
-</a>
-
-<a href="mailto:daniel.camargo@hotmail.com">
-  <img align="left" alt="E-mail" width="32px" src="https://icons8.com/icon/Ww1lcGqgduif/email"/>
-</a>
-<a href="https://www.instagram.com/danielcamargo13">
-  <img align="left" alt="Instagram" width="32px" src="https://icons8.com/icon/M486asakOqWV/instagram"/>
-</a>
 <br/>
 
-## My Stats
+## :bar_chart: My Stats
 
 <a href="https://github.com/danielfloripa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfloripa&show_icons=true&theme=light" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielfloripa&theme=light&layout=compact" />
 </a>
 
-## Tech stacks
+## :muscle: Tech stacks
 
 ### frontend
 <img align="left" width="32px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
