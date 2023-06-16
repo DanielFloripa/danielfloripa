@@ -5,10 +5,9 @@
 - 📖 Allways improving soft and hard skills, foreign languages and cook.
 - 🚀 <a href="https://www.dscamargo.com.br" >More info</a>
 
-| <a href="https://www.linkedin.com/in/daniel13"/><img align="left" title="Linkedin" width="32px" src="https://www.svgrepo.com/show/922/linkedin.svg" /></a> | <a href="mailto:daniel.camargo@hotmail.com"><img align="left" title="E-mail" width="32px" src="https://www.svgrepo.com/show/511917/email-1572.svg"/></a> | <a href="https://www.instagram.com/danielcamargo13"><img align="left" title="Instagram" width="32px" src="https://www.svgrepo.com/show/508844/instagram.svg"/></a> |
-|---|---|---|
+<img align="left" title="Linkedin" height="32px" width="64px" src="https://www.svgrepo.com/show/450662/blank.svg" /><a href="https://www.linkedin.com/in/daniel13"/><img align="left" title="Linkedin" width="32px" src="https://www.svgrepo.com/show/922/linkedin.svg" /></a> <a href="mailto:daniel.camargo@hotmail.com"><img align="left" title="E-mail" width="32px" src="https://www.svgrepo.com/show/511917/email-1572.svg"/></a>  <a href="https://www.instagram.com/danielcamargo13"><img align="left" title="Instagram" width="32px" src="https://www.svgrepo.com/show/508844/instagram.svg"/></a> 
 
-<br/>
+<br/><br/>
 
 ## :bar_chart: Stats
 
