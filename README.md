@@ -3,7 +3,7 @@
 - 🤔 I’m currently working on Buscaonibus.
 - 😎 I like to automate tasks to make life easier.
 - 📖 Allways improving soft and hard skills, foreign languages and cook.
-- 🚀 <a href="https://www.dscamargo.com.br" >More info</a>
+- 🚀 <a href="https://www.dscamargo.com.br" >+info</a>
 
 <img align="left" title="Linkedin" height="32px" width="64px" src="https://www.svgrepo.com/show/450662/blank.svg" /><a href="https://www.linkedin.com/in/daniel13"/><img align="left" title="Linkedin" width="32px" src="https://www.svgrepo.com/show/922/linkedin.svg" /></a> <a href="mailto:daniel.camargo@hotmail.com"><img align="left" title="E-mail" width="32px" src="https://www.svgrepo.com/show/511917/email-1572.svg"/></a>  <a href="https://www.instagram.com/danielcamargo13"><img align="left" title="Instagram" width="32px" src="https://www.svgrepo.com/show/508844/instagram.svg"/></a> 
 
@@ -11,9 +11,9 @@
 
 ## :bar_chart: Stats
 
-<a href="https://github.com/danielfloripa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfloripa&show_icons=true&theme=light" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielfloripa&theme=light&layout=compact" />
+<a href="https://github.com/DanielFloripa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielFloripa&show_icons=true&theme=light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanielFloripa&theme=light&layout=compact" />
 </a>
 
 ## :muscle: Tech stacks
@@ -31,10 +31,12 @@
 <br/>
 
 ### backend
-<img align="left" width="32px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" width="32px" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" width="32px" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-<img align="left" width="32px" title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<a href="https://github.com/DanielFloripa">
+  <img align="left" width="32px" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" width="32px" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="left" width="32px" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+  <img align="left" width="32px" title="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</a>
 <br/>
 
 ### databases and cache
