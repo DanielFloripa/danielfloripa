@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel Camargo
 - 💻 I love to learn and discuss about new technologies.
-- 🤔 I’m currently working on Buscaonibus.
+- 🤔 I’m currently working on <a href="https://www.buscaonibus.com.br">BuscaOnibus</a>.
 - 😎 I like to automate tasks to make life easier.
 - 📖 Allways improving soft and hard skills, foreign languages and cook.
 - 🚀 <a href="https://www.dscamargo.com.br" >+info</a>
@@ -69,9 +69,10 @@
 </a><br/>
 
 ### miscellaneous
-<img align="left" width="32px" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" width="32px" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" width="32px" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" width="32px" title="Latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-<img align="left" width="32px" title="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<br/>
+<a href="https://github.com/DanielFloripa">
+  <img align="left" width="32px" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" width="32px" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" width="32px" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="left" width="32px" title="Latex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+  <img align="left" width="32px" title="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+</a><br/>
