@@ -3,7 +3,7 @@
 - 🤔 I’m currently working on <a href="https://www.buscaonibus.com.br">BuscaOnibus</a>.
 - 😎 I like to automate tasks to make life easier.
 - 🚀 Allways improving soft and hard skills, foreign languages and cook.
--  <a href="https://www.dscamargo.com.br" ><img align="left" width="16px" title="DSC" src="https://www.dscamargo.com.br/assets/ico/favicon-16x16.png" />+info on my personal website</a>
+- <a href="https://www.dscamargo.com.br"><img align="left" width="32px" title="DSC" src="https://www.dscamargo.com.br/assets/ico/favicon-32x32.png"/>+info on my personal website</a>
 
 <img align="left" title="Linkedin" height="32px" width="64px" src="https://www.svgrepo.com/show/450662/blank.svg" /><a href="https://www.linkedin.com/in/daniel13"/><img align="left" title="Linkedin" width="32px" src="https://www.svgrepo.com/show/922/linkedin.svg" /></a> <a href="mailto:daniel.camargo@hotmail.com"><img align="left" title="E-mail" width="32px" src="https://www.svgrepo.com/show/511917/email-1572.svg"/></a>  <a href="https://www.instagram.com/danielcamargo13"><img align="left" title="Instagram" width="32px" src="https://www.svgrepo.com/show/508844/instagram.svg"/></a> 
 
